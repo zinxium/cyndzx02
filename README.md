@@ -16,7 +16,7 @@
  -- 
  ### :woman_technologist: About Me :
 
-- :👋: Hi, I’m Cynthia Zinsou
+- :👋: Hi, I’m Zinxium
 - :👀: I’m interested in mechatronics(Robotics)
 - :🌱: I’m currently learning computer science
 - :😉:   I spend time making researches on some topics i found curious
